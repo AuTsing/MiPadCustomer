@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiPadCustomer</string>
+    <string name="xposed_desc">小米平板自定义应用</string>
+</resources>

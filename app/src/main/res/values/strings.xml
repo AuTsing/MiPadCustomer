@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MiPadCustomer</string>
+    <string name="xposed_desc">MiPad custom application</string>
+</resources>
